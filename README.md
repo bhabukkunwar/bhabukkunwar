@@ -39,6 +39,6 @@ Welcome to my GitHub profile! I'm a passionate Software engineer with a strong b
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhabukkunwar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhabukkunwar)
 
 Feel free to dive into my repositories, and don't hesitate to reach out if you’re interested in collaborating or have any questions. Let’s create something amazing together! 🚀
