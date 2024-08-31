@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Software engineer with a strong b
 
 ### 🌱 I'm currently learning
 
-- Ansible
+- Ansible, django-rest-framework
 
 ### 👯 I'm looking to collaborate on
 
