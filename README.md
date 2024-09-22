@@ -34,11 +34,8 @@ Welcome to my GitHub profile! I'm a passionate Software engineer with a strong b
 
 ### 📫 How to reach me
 
-- https://www.linkedin.com/in/bhabuk-kunwar-049485207
+- https://www.linkedin.com/in/bhabukkunwar
+- bhabuk.kun@gmail.com
 
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhabukkunwar)
 
 Feel free to dive into my repositories, and don't hesitate to reach out if you’re interested in collaborating or have any questions. Let’s create something amazing together! 🚀
