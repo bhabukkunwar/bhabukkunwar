@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Software engineer with a strong b
 ### 🌱 I'm currently learning
 
 - Ansible
-- django-rest-framework
+- Microsoft Certified: Azure Administrator Associate
 
 ### 👯 I'm looking to collaborate on
 
